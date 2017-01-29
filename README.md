@@ -8,3 +8,7 @@ appears clone analogous rtc local workspace
 commit analogous to rtc deliver
 no analogue to rtc checkin and rtc repository workspace?
 the (github) fork analogous to rtc stream, in that it is the shared repo files (unless you fork with the intent of privacy, then the repo you forked off of would be analogous to the rtc repo workspace (but not really as can ber shared)
+
+the pull request (from fork to master) is not really analogous to an rtc deliver to the stream unless the fork was private and analogous to users repo workspace and the commit was analogous to rtc checkin.
+
+otherwise the pull if accepted is anologous to a rtc merge from one stream to another? target stream?
